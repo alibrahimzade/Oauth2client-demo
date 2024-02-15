@@ -1,0 +1,13 @@
+security:
+  oauth2:
+    client:
+      registration:
+        google:
+          client-id: 262903837899-1t0s61uv731237aful3mk9ed6eklv6ur.apps.googleusercontent.com
+          client-secret: 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
+
+logging:
+  level:
+    org:
+      springframework:
+        security: TRACE
